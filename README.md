@@ -24,6 +24,7 @@
         img {
             max-width: 100%;
             height: auto;
+            margin-bottom: 20px;
         }
     </style>
 </head>
@@ -34,9 +35,9 @@
     <section>
         <h2>أنت ناجح بإذن الله</h2>
         <p>من صديقك عبد الحق</p>
-        <img src="https://your-image-url1.com" alt="صورة تحفيزية 1">
-        <img src="https://your-image-url2.com" alt="صورة تحفيزية 2">
-        <img src="https://your-image-url3.com" alt="صورة تحفيزية 3">
+        <img src="https://i.imgur.com/firstImage.jpg" alt="صورة تحفيزية 1">
+        <img src="https://i.imgur.com/secondImage.jpg" alt="صورة تحفيزية 2">
+        <img src="https://i.imgur.com/thirdImage.jpg" alt="صورة تحفيزية 3">
     </section>
 </body>
 </html>
