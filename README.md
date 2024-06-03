@@ -3,15 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>صفحتي الشخصية</title>
+    <title>رسالة تحفيزية لصديقي عتامنة مهدي</title>
     <style>
         body {
             font-family: Arial, sans-serif;
             background-color: #f0f8ff;
             color: #333;
+            text-align: center;
             margin: 0;
             padding: 0;
-            text-align: center;
         }
         header {
             background-color: #4682b4;
@@ -21,33 +21,22 @@
         section {
             padding: 20px;
         }
-        .social-media a {
-            margin: 0 10px;
-            text-decoration: none;
-            color: #4682b4;
-            font-size: 20px;
+        img {
+            max-width: 100%;
+            height: auto;
         }
     </style>
 </head>
 <body>
     <header>
-        <h1>مرحباً بكم في صفحتي الشخصية</h1>
+        <h1>رسالة تحفيزية لصديقي عتامنة مهدي</h1>
     </header>
     <section>
-        <h2>من أنا؟</h2>
-        <p>أنا شخص محب للحياة ومهتم بالتكنولوجيا والألعاب. أحب التعرف على أشياء جديدة ومشاركة مغامراتي مع الآخرين.</p>
-    </section>
-    <section>
-        <h2>اهتماماتي</h2>
-        <p>أستمتع بقراءة الكتب، ولعب الألعاب الفيديو، واستكشاف البرمجة وتصميم المواقع.</p>
-    </section>
-    <section>
-        <h2>تابعوني على وسائل التواصل الاجتماعي</h2>
-        <div class="social-media">
-            <a href="https://www.facebook.com" target="_blank">فيسبوك</a>
-            <a href="https://www.twitter.com" target="_blank">تويتر</a>
-            <a href="https://www.instagram.com" target="_blank">إنستغرام</a>
-        </div>
+        <h2>أنت ناجح بإذن الله</h2>
+        <p>من صديقك عبد الحق</p>
+        <img src="https://your-image-url1.com" alt="صورة تحفيزية 1">
+        <img src="https://your-image-url2.com" alt="صورة تحفيزية 2">
+        <img src="https://your-image-url3.com" alt="صورة تحفيزية 3">
     </section>
 </body>
 </html>
